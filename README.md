@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/mdevops101/Space%20Games%20-web%20-Pipeline/_apis/build/status/madanshah.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/mdevops101/Space%20Games%20-web%20-Pipeline/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
